@@ -24,6 +24,7 @@ The switch allows for switching between modes (NDI and local HDMI output)
 - On-off switch (panel mounted)
 - M3 expansion inserts
 - M3 screws (countersink)
+- 2.5mm cable ties
 
 ## Assembly
 
@@ -42,7 +43,8 @@ Switch connects to GPIO17 and GND. Panel mounts in one of the two holes
 3.5mm jack connects to 5v, GND and GPIO21 for the NeoPixel ring.
 
 3.5mm male to bare end gets soldered onto the NeoPixel ring (through the LED
-ring 3d printed part)
+ring 3d printed part). There are a pair of holes for cable tying the cable to
+the ring to protect from stress.
 
 HQ Camera sits on 6mm standoffs in its own case. This then screws through the
 top of the main case, with the tripod mount facing the same way as the HDMI
